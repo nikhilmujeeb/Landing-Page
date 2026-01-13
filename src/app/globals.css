@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: black;
+  color: white;
+}
+
+section {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
